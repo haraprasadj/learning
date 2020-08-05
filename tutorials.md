@@ -9,3 +9,8 @@
 
 1. [Rust By Example](https://doc.rust-lang.org/rust-by-example/index.html)
 1. [Rustlings](https://github.com/rust-lang/rustlings)
+
+### DEEP LEARNING
+
+1. [Tensorflow, Keras and Deep Learning without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
+1. [Tensorflow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
