@@ -1,8 +1,8 @@
-### Machine Learning
+### MACHINE LEARNING
 
 1. [Master your path](https://www.tensorflow.org/resources/learn-ml/)
 
-### Psychology
+### PSYCHOLOGY
 
 1. [History of Psychology](https://nobaproject.com/modules/history-of-psychology)
 1. [Research Designs](https://nobaproject.com/modules/research-designs)
