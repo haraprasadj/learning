@@ -15,6 +15,6 @@
 1. [Tensorflow, Keras and Deep Learning without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist/#0)
 1. [Tensorflow in Practice](https://www.coursera.org/specializations/tensorflow-in-practice)
 
-# NATURAL LANGUAGE PROCESSING
+### NATURAL LANGUAGE PROCESSING
 
 1. [Advanced NLP with Spacy](https://course.spacy.io/en/)

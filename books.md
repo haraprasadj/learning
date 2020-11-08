@@ -14,3 +14,7 @@
 ### DEEP LEARNING
 
 1. [Deep Learning with Python](https://livebook.manning.com/book/deep-learning-with-python/)
+
+### SOFTWARE DESIGN
+
+1. [Design Patterns](https://refactoring.guru/design-patterns)
